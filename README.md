@@ -1,4 +1,4 @@
 # firstrepo
 learning purpose
 sai sriya gottipati 
-i love Pizzas
+i love Pizza
